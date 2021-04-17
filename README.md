@@ -7,4 +7,5 @@ Wiki link for ICP6 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wi
 Wiki link for ICP7 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP7   
 Wiki link for ICP8 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP8   
 Wiki link for ICP9 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP9   
-WIki link for ICP10 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP-10
+Wiki link for ICP10 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP-10  
+Wiki link for ICP11 : https://github.com/NagaSurendraBethapudi/Python-ICP/wiki/Wiki-Report-for-ICP-11
